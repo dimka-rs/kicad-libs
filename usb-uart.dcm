@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CP2102-GM
+D CP2102-GM QFN28 5x5 mm
+K usb, uart
+$ENDCMP
+#
+#End Doc Library
